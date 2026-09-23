@@ -1,0 +1,23 @@
+# Nutrition Agent - AI-Powered Multi-Agent Nutrition System
+# Core Dependencies
+groq>=0.9.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+# Web Framework (for API endpoints)
+flask>=3.0.0
+flask-cors>=4.0.0
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+# Utilities
+tenacity>=8.2.0
+pydantic>=2.0.0
+# Audio (for voice logging)
+# soundfile>=0.12.1
+# pyaudio>=0.2.13
+# Development & Testing
+pytest>=7.4.0
+black>=23.0.0
